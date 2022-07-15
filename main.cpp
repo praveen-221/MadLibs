@@ -2,7 +2,7 @@
    This is a console application
 */
 
-#include <iostream>       //preprocessing directive
+#include <iostream>     //preprocessing directive
 
 using namespace std;
 
@@ -233,3 +233,8 @@ void story_3()
     cout << "\t 4. Be simple. Never use "<< adj4 << " words that are over the audience's " << pb2 <<".\n";
     cout << "\t 5. Always keep a pitcher of liquid.next to you, in case your "<< pb3 << " goes dry.\n";
 }
+
+/*
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+*/
