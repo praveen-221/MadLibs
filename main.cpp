@@ -234,7 +234,7 @@ void story_3()
     cout << "\t 5. Always keep a pitcher of liquid.next to you, in case your "<< pb3 << " goes dry.\n";
 }
 
-/*
+/* GitHub configuration for VScode:
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 */
